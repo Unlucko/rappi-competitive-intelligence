@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+output/didi_cookies.json
+output/didi_storage.json
+output/didi_live_data.json
+output/rappi_live_data.json
+output/ubereats_live_data.json
+output/scraper.log
+output/screenshots/
+didi_login.py

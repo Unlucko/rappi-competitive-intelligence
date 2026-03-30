@@ -1,0 +1,161 @@
+platform,address_label,city,zone_type,product_name,product_price,delivery_fee,service_fee,estimated_delivery_minutes,active_promotions,total_final_price,restaurant_name,scrape_timestamp,scrape_success,error_message
+Rappi,"Polanco, CDMX",CDMX,Wealthy,Big Mac,328.0,,,13.0,,328.0,McDonald's,2026-03-29T18:21:52.211996,True,
+Rappi,"Polanco, CDMX",CDMX,Wealthy,McNuggets,277.0,,,13.0,,277.0,McDonald's,2026-03-29T18:21:52.212003,True,
+Rappi,"Polanco, CDMX",CDMX,Wealthy,Combo,,,,13.0,,,McDonald's,2026-03-29T18:21:52.212005,False,Combo not found
+Rappi,"Polanco, CDMX",CDMX,Wealthy,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T18:21:52.212007,True,
+Rappi,"Condesa, CDMX",CDMX,Wealthy,Big Mac,328.0,,,13.0,,328.0,McDonald's,2026-03-29T18:22:08.972168,True,
+Rappi,"Condesa, CDMX",CDMX,Wealthy,McNuggets,277.0,,,13.0,,277.0,McDonald's,2026-03-29T18:22:08.972174,True,
+Rappi,"Condesa, CDMX",CDMX,Wealthy,Combo,,,,13.0,,,McDonald's,2026-03-29T18:22:08.972175,False,Combo not found
+Rappi,"Condesa, CDMX",CDMX,Wealthy,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T18:22:08.972177,True,
+Rappi,"Roma Norte, CDMX",CDMX,Wealthy,Big Mac,328.0,,,13.0,,328.0,McDonald's,2026-03-29T18:22:24.898339,True,
+Rappi,"Roma Norte, CDMX",CDMX,Wealthy,McNuggets,277.0,,,13.0,,277.0,McDonald's,2026-03-29T18:22:24.898346,True,
+Rappi,"Roma Norte, CDMX",CDMX,Wealthy,Combo,,,,13.0,,,McDonald's,2026-03-29T18:22:24.898348,False,Combo not found
+Rappi,"Roma Norte, CDMX",CDMX,Wealthy,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T18:22:24.898350,True,
+Rappi,"Coyoacan, CDMX",CDMX,Middle,Big Mac,328.0,,,13.0,,328.0,McDonald's,2026-03-29T18:22:41.613948,True,
+Rappi,"Coyoacan, CDMX",CDMX,Middle,McNuggets,277.0,,,13.0,,277.0,McDonald's,2026-03-29T18:22:41.613954,True,
+Rappi,"Coyoacan, CDMX",CDMX,Middle,Combo,,,,13.0,,,McDonald's,2026-03-29T18:22:41.613956,False,Combo not found
+Rappi,"Coyoacan, CDMX",CDMX,Middle,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T18:22:41.613958,True,
+Rappi,"Del Valle, CDMX",CDMX,Middle,Big Mac,328.0,,,13.0,,328.0,McDonald's,2026-03-29T18:22:59.665275,True,
+Rappi,"Del Valle, CDMX",CDMX,Middle,McNuggets,277.0,,,13.0,,277.0,McDonald's,2026-03-29T18:22:59.665281,True,
+Rappi,"Del Valle, CDMX",CDMX,Middle,Combo,,,,13.0,,,McDonald's,2026-03-29T18:22:59.665283,False,Combo not found
+Rappi,"Del Valle, CDMX",CDMX,Middle,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T18:22:59.665285,True,
+Rappi,"Iztapalapa, CDMX",CDMX,Popular,Big Mac,328.0,,,13.0,,328.0,McDonald's,2026-03-29T18:23:15.913713,True,
+Rappi,"Iztapalapa, CDMX",CDMX,Popular,McNuggets,277.0,,,13.0,,277.0,McDonald's,2026-03-29T18:23:15.913719,True,
+Rappi,"Iztapalapa, CDMX",CDMX,Popular,Combo,,,,13.0,,,McDonald's,2026-03-29T18:23:15.913721,False,Combo not found
+Rappi,"Iztapalapa, CDMX",CDMX,Popular,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T18:23:15.913723,True,
+Rappi,"GAM, CDMX",CDMX,Popular,Big Mac,328.0,,,13.0,,328.0,McDonald's,2026-03-29T18:23:34.137329,True,
+Rappi,"GAM, CDMX",CDMX,Popular,McNuggets,277.0,,,13.0,,277.0,McDonald's,2026-03-29T18:23:34.137334,True,
+Rappi,"GAM, CDMX",CDMX,Popular,Combo,,,,13.0,,,McDonald's,2026-03-29T18:23:34.137336,False,Combo not found
+Rappi,"GAM, CDMX",CDMX,Popular,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T18:23:34.137337,True,
+Rappi,"San Pedro, Monterrey",Monterrey,Wealthy,Big Mac,328.0,,,13.0,,328.0,McDonald's,2026-03-29T18:23:49.447428,True,
+Rappi,"San Pedro, Monterrey",Monterrey,Wealthy,McNuggets,277.0,,,13.0,,277.0,McDonald's,2026-03-29T18:23:49.447435,True,
+Rappi,"San Pedro, Monterrey",Monterrey,Wealthy,Combo,,,,13.0,,,McDonald's,2026-03-29T18:23:49.447437,False,Combo not found
+Rappi,"San Pedro, Monterrey",Monterrey,Wealthy,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T18:23:49.447438,True,
+Rappi,"Centro, Monterrey",Monterrey,Middle,Big Mac,328.0,,,13.0,,328.0,McDonald's,2026-03-29T18:24:06.082400,True,
+Rappi,"Centro, Monterrey",Monterrey,Middle,McNuggets,277.0,,,13.0,,277.0,McDonald's,2026-03-29T18:24:06.082411,True,
+Rappi,"Centro, Monterrey",Monterrey,Middle,Combo,,,,13.0,,,McDonald's,2026-03-29T18:24:06.082414,False,Combo not found
+Rappi,"Centro, Monterrey",Monterrey,Middle,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T18:24:06.082417,True,
+Rappi,"Zapopan, Guadalajara",Guadalajara,Wealthy,Big Mac,328.0,,,13.0,,328.0,McDonald's,2026-03-29T18:24:22.900391,True,
+Rappi,"Zapopan, Guadalajara",Guadalajara,Wealthy,McNuggets,277.0,,,13.0,,277.0,McDonald's,2026-03-29T18:24:22.900397,True,
+Rappi,"Zapopan, Guadalajara",Guadalajara,Wealthy,Combo,,,,13.0,,,McDonald's,2026-03-29T18:24:22.900399,False,Combo not found
+Rappi,"Zapopan, Guadalajara",Guadalajara,Wealthy,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T18:24:22.900401,True,
+Rappi,"Centro, Guadalajara",Guadalajara,Middle,Big Mac,328.0,,,13.0,,328.0,McDonald's,2026-03-29T18:24:42.479122,True,
+Rappi,"Centro, Guadalajara",Guadalajara,Middle,McNuggets,277.0,,,13.0,,277.0,McDonald's,2026-03-29T18:24:42.479129,True,
+Rappi,"Centro, Guadalajara",Guadalajara,Middle,Combo,,,,13.0,,,McDonald's,2026-03-29T18:24:42.479131,False,Combo not found
+Rappi,"Centro, Guadalajara",Guadalajara,Middle,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T18:24:42.479133,True,
+Rappi,"Centro, Puebla",Puebla,Middle,Big Mac,328.0,,,13.0,,328.0,McDonald's,2026-03-29T18:24:59.477838,True,
+Rappi,"Centro, Puebla",Puebla,Middle,McNuggets,277.0,,,13.0,,277.0,McDonald's,2026-03-29T18:24:59.477844,True,
+Rappi,"Centro, Puebla",Puebla,Middle,Combo,,,,13.0,,,McDonald's,2026-03-29T18:24:59.477846,False,Combo not found
+Rappi,"Centro, Puebla",Puebla,Middle,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T18:24:59.477847,True,
+Rappi,"Centro, Merida",Merida,Middle,Big Mac,328.0,,,13.0,,328.0,McDonald's,2026-03-29T18:25:15.963634,True,
+Rappi,"Centro, Merida",Merida,Middle,McNuggets,277.0,,,13.0,,277.0,McDonald's,2026-03-29T18:25:15.963640,True,
+Rappi,"Centro, Merida",Merida,Middle,Combo,,,,13.0,,,McDonald's,2026-03-29T18:25:15.963641,False,Combo not found
+Rappi,"Centro, Merida",Merida,Middle,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T18:25:15.963643,True,
+Rappi,"Zona Hotelera, Cancun",Cancun,Wealthy,Big Mac,328.0,,,13.0,,328.0,McDonald's,2026-03-29T18:25:33.164242,True,
+Rappi,"Zona Hotelera, Cancun",Cancun,Wealthy,McNuggets,277.0,,,13.0,,277.0,McDonald's,2026-03-29T18:25:33.164249,True,
+Rappi,"Zona Hotelera, Cancun",Cancun,Wealthy,Combo,,,,13.0,,,McDonald's,2026-03-29T18:25:33.164250,False,Combo not found
+Rappi,"Zona Hotelera, Cancun",Cancun,Wealthy,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T18:25:33.164252,True,
+Rappi,"Santa Fe, CDMX",CDMX,Wealthy,Big Mac,328.0,,,13.0,,328.0,McDonald's,2026-03-29T18:25:49.456886,True,
+Rappi,"Santa Fe, CDMX",CDMX,Wealthy,McNuggets,277.0,,,13.0,,277.0,McDonald's,2026-03-29T18:25:49.456892,True,
+Rappi,"Santa Fe, CDMX",CDMX,Wealthy,Combo,,,,13.0,,,McDonald's,2026-03-29T18:25:49.456893,False,Combo not found
+Rappi,"Santa Fe, CDMX",CDMX,Wealthy,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T18:25:49.456895,True,
+Rappi,"Narvarte, CDMX",CDMX,Middle,Big Mac,328.0,,,12.0,,328.0,McDonald's,2026-03-29T18:26:05.309808,True,
+Rappi,"Narvarte, CDMX",CDMX,Middle,McNuggets,277.0,,,12.0,,277.0,McDonald's,2026-03-29T18:26:05.309815,True,
+Rappi,"Narvarte, CDMX",CDMX,Middle,Combo,,,,12.0,,,McDonald's,2026-03-29T18:26:05.309816,False,Combo not found
+Rappi,"Narvarte, CDMX",CDMX,Middle,Coca-Cola,55.0,,,12.0,,55.0,McDonald's,2026-03-29T18:26:05.309818,True,
+Rappi,"Tlalpan, CDMX",CDMX,Middle,Big Mac,328.0,,,12.0,,328.0,McDonald's,2026-03-29T18:26:22.435257,True,
+Rappi,"Tlalpan, CDMX",CDMX,Middle,McNuggets,277.0,,,12.0,,277.0,McDonald's,2026-03-29T18:26:22.435263,True,
+Rappi,"Tlalpan, CDMX",CDMX,Middle,Combo,,,,12.0,,,McDonald's,2026-03-29T18:26:22.435265,False,Combo not found
+Rappi,"Tlalpan, CDMX",CDMX,Middle,Coca-Cola,55.0,,,12.0,,55.0,McDonald's,2026-03-29T18:26:22.435266,True,
+Rappi,"Interlomas, CDMX",CDMX,Wealthy,Big Mac,328.0,,,12.0,,328.0,McDonald's,2026-03-29T18:26:38.692632,True,
+Rappi,"Interlomas, CDMX",CDMX,Wealthy,McNuggets,277.0,,,12.0,,277.0,McDonald's,2026-03-29T18:26:38.692638,True,
+Rappi,"Interlomas, CDMX",CDMX,Wealthy,Combo,,,,12.0,,,McDonald's,2026-03-29T18:26:38.692640,False,Combo not found
+Rappi,"Interlomas, CDMX",CDMX,Wealthy,Coca-Cola,55.0,,,12.0,,55.0,McDonald's,2026-03-29T18:26:38.692642,True,
+Rappi,"Pedregal, CDMX",CDMX,Wealthy,Big Mac,328.0,,,12.0,,328.0,McDonald's,2026-03-29T18:26:55.692593,True,
+Rappi,"Pedregal, CDMX",CDMX,Wealthy,McNuggets,277.0,,,12.0,,277.0,McDonald's,2026-03-29T18:26:55.692600,True,
+Rappi,"Pedregal, CDMX",CDMX,Wealthy,Combo,,,,12.0,,,McDonald's,2026-03-29T18:26:55.692602,False,Combo not found
+Rappi,"Pedregal, CDMX",CDMX,Wealthy,Coca-Cola,55.0,,,12.0,,55.0,McDonald's,2026-03-29T18:26:55.692603,True,
+Rappi,"Xochimilco, CDMX",CDMX,Popular,Big Mac,328.0,,,12.0,,328.0,McDonald's,2026-03-29T18:27:12.475939,True,
+Rappi,"Xochimilco, CDMX",CDMX,Popular,McNuggets,277.0,,,12.0,,277.0,McDonald's,2026-03-29T18:27:12.475946,True,
+Rappi,"Xochimilco, CDMX",CDMX,Popular,Combo,,,,12.0,,,McDonald's,2026-03-29T18:27:12.475948,False,Combo not found
+Rappi,"Xochimilco, CDMX",CDMX,Popular,Coca-Cola,55.0,,,12.0,,55.0,McDonald's,2026-03-29T18:27:12.475950,True,
+Uber Eats,"Polanco, CDMX",CDMX,Wealthy,Big Mac,159.0,,,13.0,,159.0,McDonald's,2026-03-29T19:17:30.936978,True,
+Uber Eats,"Polanco, CDMX",CDMX,Wealthy,McNuggets,99.0,,,13.0,,99.0,McDonald's,2026-03-29T19:17:30.936985,True,
+Uber Eats,"Polanco, CDMX",CDMX,Wealthy,Combo,,,,13.0,,,McDonald's,2026-03-29T19:17:30.936987,False,Combo not found
+Uber Eats,"Polanco, CDMX",CDMX,Wealthy,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T19:17:30.936989,True,
+Uber Eats,"Condesa, CDMX",CDMX,Wealthy,Big Mac,99.0,,,15.0,,99.0,McDonald's,2026-03-29T19:17:49.482129,True,
+Uber Eats,"Condesa, CDMX",CDMX,Wealthy,McNuggets,189.0,,,15.0,,189.0,McDonald's,2026-03-29T19:17:49.482136,True,
+Uber Eats,"Condesa, CDMX",CDMX,Wealthy,Combo,,,,15.0,,,McDonald's,2026-03-29T19:17:49.482137,False,Combo not found
+Uber Eats,"Condesa, CDMX",CDMX,Wealthy,Coca-Cola,55.0,,,15.0,,55.0,McDonald's,2026-03-29T19:17:49.482139,True,
+Uber Eats,"Roma Norte, CDMX",CDMX,Wealthy,Big Mac,159.0,,,13.0,,159.0,McDonald's,2026-03-29T19:18:09.567339,True,
+Uber Eats,"Roma Norte, CDMX",CDMX,Wealthy,McNuggets,159.0,,,13.0,,159.0,McDonald's,2026-03-29T19:18:09.567346,True,
+Uber Eats,"Roma Norte, CDMX",CDMX,Wealthy,Combo,,,,13.0,,,McDonald's,2026-03-29T19:18:09.567348,False,Combo not found
+Uber Eats,"Roma Norte, CDMX",CDMX,Wealthy,Coca-Cola,55.0,,,13.0,,55.0,McDonald's,2026-03-29T19:18:09.567350,True,
+Uber Eats,"Coyoacan, CDMX",CDMX,Middle,Big Mac,179.0,,,14.0,,179.0,McDonald's,2026-03-29T19:18:29.139585,True,
+Uber Eats,"Coyoacan, CDMX",CDMX,Middle,McNuggets,99.0,,,14.0,,99.0,McDonald's,2026-03-29T19:18:29.139592,True,
+Uber Eats,"Coyoacan, CDMX",CDMX,Middle,Combo,,,,14.0,,,McDonald's,2026-03-29T19:18:29.139593,False,Combo not found
+Uber Eats,"Coyoacan, CDMX",CDMX,Middle,Coca-Cola,65.0,,,14.0,,65.0,McDonald's,2026-03-29T19:18:29.139595,True,
+Uber Eats,"Del Valle, CDMX",CDMX,Middle,Big Mac,159.0,,,12.0,,159.0,McDonald's,2026-03-29T19:18:47.343568,True,
+Uber Eats,"Del Valle, CDMX",CDMX,Middle,McNuggets,75.0,,,12.0,,75.0,McDonald's,2026-03-29T19:18:47.343575,True,
+Uber Eats,"Del Valle, CDMX",CDMX,Middle,Combo,,,,12.0,,,McDonald's,2026-03-29T19:18:47.343576,False,Combo not found
+Uber Eats,"Del Valle, CDMX",CDMX,Middle,Coca-Cola,59.0,,,12.0,,59.0,McDonald's,2026-03-29T19:18:47.343578,True,
+Uber Eats,"Iztapalapa, CDMX",CDMX,Popular,Big Mac,99.0,,,15.0,,99.0,McDonald's,2026-03-29T19:19:06.002877,True,
+Uber Eats,"Iztapalapa, CDMX",CDMX,Popular,McNuggets,99.0,,,15.0,,99.0,McDonald's,2026-03-29T19:19:06.002883,True,
+Uber Eats,"Iztapalapa, CDMX",CDMX,Popular,Combo,,,,15.0,,,McDonald's,2026-03-29T19:19:06.002885,False,Combo not found
+Uber Eats,"Iztapalapa, CDMX",CDMX,Popular,Coca-Cola,35.0,,,15.0,,35.0,McDonald's,2026-03-29T19:19:06.002887,True,
+Uber Eats,"GAM, CDMX",CDMX,Popular,Big Mac,99.0,,,11.0,,99.0,McDonald's,2026-03-29T19:19:24.079613,True,
+Uber Eats,"GAM, CDMX",CDMX,Popular,McNuggets,189.0,,,11.0,,189.0,McDonald's,2026-03-29T19:19:24.079624,True,
+Uber Eats,"GAM, CDMX",CDMX,Popular,Combo,,,,11.0,,,McDonald's,2026-03-29T19:19:24.079626,False,Combo not found
+Uber Eats,"GAM, CDMX",CDMX,Popular,Coca-Cola,55.0,,,11.0,,55.0,McDonald's,2026-03-29T19:19:24.079628,True,
+Uber Eats,"San Pedro, Monterrey",Monterrey,Wealthy,Big Mac,135.0,,,14.0,,135.0,McDonald's,2026-03-29T19:19:43.462503,True,
+Uber Eats,"San Pedro, Monterrey",Monterrey,Wealthy,McNuggets,109.0,,,14.0,,109.0,McDonald's,2026-03-29T19:19:43.462510,True,
+Uber Eats,"San Pedro, Monterrey",Monterrey,Wealthy,Combo,,,,14.0,,,McDonald's,2026-03-29T19:19:43.462511,False,Combo not found
+Uber Eats,"San Pedro, Monterrey",Monterrey,Wealthy,Coca-Cola,55.0,,,14.0,,55.0,McDonald's,2026-03-29T19:19:43.462512,True,
+Uber Eats,"Centro, Monterrey",Monterrey,Middle,Big Mac,175.0,,,21.0,,175.0,McDonald's,2026-03-29T19:20:03.021926,True,
+Uber Eats,"Centro, Monterrey",Monterrey,Middle,McNuggets,205.0,,,21.0,,205.0,McDonald's,2026-03-29T19:20:03.021936,True,
+Uber Eats,"Centro, Monterrey",Monterrey,Middle,Combo,,,,21.0,,,McDonald's,2026-03-29T19:20:03.021937,False,Combo not found
+Uber Eats,"Centro, Monterrey",Monterrey,Middle,Coca-Cola,40.0,,,21.0,,40.0,McDonald's,2026-03-29T19:20:03.021939,True,
+Uber Eats,"Zapopan, Guadalajara",Guadalajara,Wealthy,Big Mac,72.0,,,15.0,,72.0,McDonald's,2026-03-29T19:20:20.403643,True,
+Uber Eats,"Zapopan, Guadalajara",Guadalajara,Wealthy,McNuggets,126.0,,,15.0,,126.0,McDonald's,2026-03-29T19:20:20.403651,True,
+Uber Eats,"Zapopan, Guadalajara",Guadalajara,Wealthy,Combo,199.0,,,15.0,,199.0,McDonald's,2026-03-29T19:20:20.403653,True,
+Uber Eats,"Zapopan, Guadalajara",Guadalajara,Wealthy,Coca-Cola,,,,15.0,,,McDonald's,2026-03-29T19:20:20.403654,False,Coca-Cola not found
+Uber Eats,"Centro, Guadalajara",Guadalajara,Middle,Big Mac,,,,,,,McDonald's,2026-03-29T19:20:29.420946,False,Big Mac not found
+Uber Eats,"Centro, Guadalajara",Guadalajara,Middle,McNuggets,,,,,,,McDonald's,2026-03-29T19:20:29.420950,False,McNuggets not found
+Uber Eats,"Centro, Guadalajara",Guadalajara,Middle,Combo,,,,,,,McDonald's,2026-03-29T19:20:29.420951,False,Combo not found
+Uber Eats,"Centro, Guadalajara",Guadalajara,Middle,Coca-Cola,,,,,,,McDonald's,2026-03-29T19:20:29.420952,False,Coca-Cola not found
+Uber Eats,"Centro, Puebla",Puebla,Middle,Big Mac,129.0,,,15.0,,129.0,McDonald's,2026-03-29T19:20:47.492656,True,
+Uber Eats,"Centro, Puebla",Puebla,Middle,McNuggets,135.0,,,15.0,,135.0,McDonald's,2026-03-29T19:20:47.492661,True,
+Uber Eats,"Centro, Puebla",Puebla,Middle,Combo,,,,15.0,,,McDonald's,2026-03-29T19:20:47.492663,False,Combo not found
+Uber Eats,"Centro, Puebla",Puebla,Middle,Coca-Cola,40.0,,,15.0,,40.0,McDonald's,2026-03-29T19:20:47.492664,True,
+Uber Eats,"Centro, Merida",Merida,Middle,Big Mac,99.0,,,10.0,,99.0,McDonald's,2026-03-29T19:21:07.457508,True,
+Uber Eats,"Centro, Merida",Merida,Middle,McNuggets,159.0,,,10.0,,159.0,McDonald's,2026-03-29T19:21:07.457515,True,
+Uber Eats,"Centro, Merida",Merida,Middle,Combo,,,,10.0,,,McDonald's,2026-03-29T19:21:07.457516,False,Combo not found
+Uber Eats,"Centro, Merida",Merida,Middle,Coca-Cola,25.0,,,10.0,,25.0,McDonald's,2026-03-29T19:21:07.457518,True,
+Uber Eats,"Zona Hotelera, Cancun",Cancun,Wealthy,Big Mac,99.0,,,25.0,,99.0,McDonald's,2026-03-29T19:21:28.243411,True,
+Uber Eats,"Zona Hotelera, Cancun",Cancun,Wealthy,McNuggets,99.0,,,25.0,,99.0,McDonald's,2026-03-29T19:21:28.243417,True,
+Uber Eats,"Zona Hotelera, Cancun",Cancun,Wealthy,Combo,,,,25.0,,,McDonald's,2026-03-29T19:21:28.243419,False,Combo not found
+Uber Eats,"Zona Hotelera, Cancun",Cancun,Wealthy,Coca-Cola,35.0,,,25.0,,35.0,McDonald's,2026-03-29T19:21:28.243420,True,
+Uber Eats,"Santa Fe, CDMX",CDMX,Wealthy,Big Mac,209.0,,,10.0,,209.0,McDonald's,2026-03-29T19:21:46.101697,True,
+Uber Eats,"Santa Fe, CDMX",CDMX,Wealthy,McNuggets,99.0,,,10.0,,99.0,McDonald's,2026-03-29T19:21:46.101708,True,
+Uber Eats,"Santa Fe, CDMX",CDMX,Wealthy,Combo,,,,10.0,,,McDonald's,2026-03-29T19:21:46.101709,False,Combo not found
+Uber Eats,"Santa Fe, CDMX",CDMX,Wealthy,Coca-Cola,65.0,,,10.0,,65.0,McDonald's,2026-03-29T19:21:46.101711,True,
+Uber Eats,"Narvarte, CDMX",CDMX,Middle,Big Mac,,,,,,,McDonald's,2026-03-29T19:21:54.187053,False,Big Mac not found
+Uber Eats,"Narvarte, CDMX",CDMX,Middle,McNuggets,,,,,,,McDonald's,2026-03-29T19:21:54.187062,False,McNuggets not found
+Uber Eats,"Narvarte, CDMX",CDMX,Middle,Combo,,,,,,,McDonald's,2026-03-29T19:21:54.187064,False,Combo not found
+Uber Eats,"Narvarte, CDMX",CDMX,Middle,Coca-Cola,,,,,,,McDonald's,2026-03-29T19:21:54.187065,False,Coca-Cola not found
+Uber Eats,"Tlalpan, CDMX",CDMX,Middle,Big Mac,,,,,,,McDonald's,2026-03-29T19:22:01.453685,False,Big Mac not found
+Uber Eats,"Tlalpan, CDMX",CDMX,Middle,McNuggets,,,,,,,McDonald's,2026-03-29T19:22:01.453702,False,McNuggets not found
+Uber Eats,"Tlalpan, CDMX",CDMX,Middle,Combo,,,,,,,McDonald's,2026-03-29T19:22:01.453705,False,Combo not found
+Uber Eats,"Tlalpan, CDMX",CDMX,Middle,Coca-Cola,,,,,,,McDonald's,2026-03-29T19:22:01.453707,False,Coca-Cola not found
+Uber Eats,"Interlomas, CDMX",CDMX,Wealthy,Big Mac,,,,,,,McDonald's,2026-03-29T19:22:08.243919,False,Big Mac not found
+Uber Eats,"Interlomas, CDMX",CDMX,Wealthy,McNuggets,,,,,,,McDonald's,2026-03-29T19:22:08.243929,False,McNuggets not found
+Uber Eats,"Interlomas, CDMX",CDMX,Wealthy,Combo,,,,,,,McDonald's,2026-03-29T19:22:08.243930,False,Combo not found
+Uber Eats,"Interlomas, CDMX",CDMX,Wealthy,Coca-Cola,,,,,,,McDonald's,2026-03-29T19:22:08.243931,False,Coca-Cola not found
+Uber Eats,"Pedregal, CDMX",CDMX,Wealthy,Big Mac,,,,,,,McDonald's,2026-03-29T19:22:15.481524,False,Big Mac not found
+Uber Eats,"Pedregal, CDMX",CDMX,Wealthy,McNuggets,,,,,,,McDonald's,2026-03-29T19:22:15.481534,False,McNuggets not found
+Uber Eats,"Pedregal, CDMX",CDMX,Wealthy,Combo,,,,,,,McDonald's,2026-03-29T19:22:15.481536,False,Combo not found
+Uber Eats,"Pedregal, CDMX",CDMX,Wealthy,Coca-Cola,,,,,,,McDonald's,2026-03-29T19:22:15.481538,False,Coca-Cola not found
+Uber Eats,"Xochimilco, CDMX",CDMX,Popular,Big Mac,,,,,,,McDonald's,2026-03-29T19:22:22.463953,False,Big Mac not found
+Uber Eats,"Xochimilco, CDMX",CDMX,Popular,McNuggets,,,,,,,McDonald's,2026-03-29T19:22:22.463972,False,McNuggets not found
+Uber Eats,"Xochimilco, CDMX",CDMX,Popular,Combo,,,,,,,McDonald's,2026-03-29T19:22:22.463975,False,Combo not found
+Uber Eats,"Xochimilco, CDMX",CDMX,Popular,Coca-Cola,,,,,,,McDonald's,2026-03-29T19:22:22.463977,False,Coca-Cola not found
